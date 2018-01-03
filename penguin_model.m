@@ -4,6 +4,7 @@ close all
 figure('units','normalized','outerposition',[0 0 1 0.6])
 colormap jet
 
+
 system('mkdir pics')
 n = 100;          % number of penguin speed
 r = 0.5;         % radius of penguin
