@@ -66,7 +66,7 @@ def animate(t, n, r, L, noise, dt, v0, a, f, tt, k, tau, s, tau1, pos, R, F, S):
     plt.title(t)
     print
     
-    return pos
+    return ax,pos
 
 
 
